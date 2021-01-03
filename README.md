@@ -3,9 +3,7 @@
 Responsible body according to data protection laws:
 
 Mr Patrick Postert
-
 Henning-Voscherau-Platz 1
-
 20457 Hamburg (Germany)
 
 Email: [pp.playstore@outlook.com](mailto:pp.playstore@outlook.com)
@@ -24,9 +22,7 @@ The app requires the camera access for augmented reality support. While using th
 Verantwortliche Stelle gemäß den Datenschutzgesetzen:
 
 Herr Patrick Postert
-
 Henning-Voscherau-Platz 1
-
 20457 Hamburg (Deutschland)
 
 E-Mail: [pp.playstore@outlook.com](mailto:pp.playstore@outlook.com)
